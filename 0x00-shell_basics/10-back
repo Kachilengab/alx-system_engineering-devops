@@ -1,5 +1,2 @@
 #!/bin/bash
-cd /tmp
-cd /var
-pushd /tmp
-popd
+cd /tmp, cd /var, pushd /tmp, popd
